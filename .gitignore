@@ -1,0 +1,4 @@
+# Nix .gitignore
+result
+result-*
+.direnv/
